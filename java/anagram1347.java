@@ -1,3 +1,4 @@
+package java;
 // https://leetcode.com/submissions/detail/1145372498/
 
 class Solution {

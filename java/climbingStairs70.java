@@ -1,3 +1,4 @@
+package java;
 // https://leetcode.com/problems/climbing-stairs/?envType=daily-question&envId=2024-01-18
 
 // class Solution {

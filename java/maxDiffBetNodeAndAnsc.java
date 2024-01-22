@@ -1,3 +1,4 @@
+package java;
 // https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/?envType=daily-question&envId=2024-01-11
 
 /**

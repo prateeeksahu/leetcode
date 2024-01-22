@@ -1,3 +1,4 @@
+package java;
 // https://leetcode.com/problems/leaf-similar-trees/?envType=daily-question&envId=2024-01-09
 
 /**

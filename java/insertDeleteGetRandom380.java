@@ -1,3 +1,4 @@
+package java;
 // https://leetcode.com/problems/insert-delete-getrandom-o1/?envType=daily-question&envId=2024-01-16
 
 class RandomizedSet {
